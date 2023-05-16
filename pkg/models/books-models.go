@@ -1,3 +1,5 @@
+// Hello this is model of books and some basic functionalities.
+
 package models
 
 import (
